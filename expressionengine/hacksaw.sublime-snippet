@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{exp:eehive_hacksaw chars="160" append="&hellip;"}{${1:variable_name}}{/exp:eehive_hacksaw}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>shorten</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html</scope>
+</snippet>
