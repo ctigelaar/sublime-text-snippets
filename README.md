@@ -1,2 +1,2 @@
-# scss-snippets
-Collection of common used SCSS snippets for Sublime Text
+# sublime-text-snippets
+Collection of my common used custom Sublime Text snippets
